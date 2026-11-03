@@ -55,7 +55,7 @@ sudo containerlab destroy -t evpn-vxlan-spine-leaf.clab.yml --cleanup
 
 The leaves print `Warning: License key missing; requires 'BGP' license` on `show bgp summary`. The sessions come up anyway.
 
-The full walkthrough with the real output is in the [Juniper EVPN-VXLAN lab tutorial](https://www.netpilot.io/blog/juniper-evpn-vxlan-lab), and the build is on video: [Juniper EVPN-VXLAN Lab After vLabs](https://www.youtube.com/watch?v=FILLVIDEOID).
+The full walkthrough with the real output is in the [Juniper EVPN-VXLAN lab tutorial](https://www.netpilot.io/blog/juniper-evpn-vxlan-lab), and the build is on video: [Juniper EVPN-VXLAN Lab After vLabs: OSPF + BGP EVPN on Real Junos](https://www.youtube.com/watch?v=dpwCRpUGD1E).
 
 ## What we measured
 

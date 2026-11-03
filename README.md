@@ -18,7 +18,7 @@ Setup steps, traps and the switch kind are in [Run vJunos in containerlab](https
 
 ## Get the image
 
-This repository does not include the vJunos image and never will. It is Juniper's software, under Juniper's license. Download the qcow2 from Juniper's [vJunos page](https://www.juniper.net/us/en/dm/vjunos-labs.html), accept the license there, then build the container image with [vrnetlab](https://github.com/srl-labs/vrnetlab):
+This repository does not include the vJunos image and never will. It is Juniper's software, under Juniper's license. Download the qcow2 from Juniper's support downloads pages for [vJunos-router](https://support.juniper.net/support/downloads/?p=vjunos-router) and [vJunos-switch](https://support.juniper.net/support/downloads/?p=vjunos-switch), accept the license there, then build the container image with [vrnetlab](https://github.com/srl-labs/vrnetlab):
 
 ```bash
 git clone https://github.com/srl-labs/vrnetlab
